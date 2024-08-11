@@ -1,8 +1,5 @@
 # 20 DB2 Pritam Chakraborty
 
-## Name
-
-Graph Database Project
 
 ## Introduction
 
