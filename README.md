@@ -211,7 +211,7 @@ Available goals:
 
 ### Check "Results" folder for more intensive query results
 
-[Results](results)
+[Results](Results)
 
 ## Manual
 
