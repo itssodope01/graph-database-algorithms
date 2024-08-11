@@ -42,17 +42,17 @@ This Project is build using:
 
 **Python Scripts:**
 
-import_data.py: Handles importing data from CSV files into Neo4j.
+**import_data.py**: Handles importing data from CSV files into Neo4j.
 
-utils.py: Provides utility functions for database operations.
+**utils.py**: Provides utility functions for database operations.
 
-goals.py: Defines functions for various database queries (goals).
+**goals.py**: Defines functions for various database queries (goals).
 
-dbcli.py: Command-line interface for interacting with the database using the defined goals.
+**dbcli.py**: Command-line interface for interacting with the database using the defined goals.
 
 **Configuration File:**
 
-config.py: Stores configuration settings such as database connection details.
+**config.py**: Stores configuration settings such as database connection details.
 
 ### Data Flow
 
