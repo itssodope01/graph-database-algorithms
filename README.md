@@ -6,7 +6,7 @@ Graph Database Project
 
 ## Introduction
 
-The Project was designed to interact with a graph database representing Wikipedia Main topic Classification categories. It has a command Line utility feature that allows us to query the database efficiently and seamlessly.
+The Project is designed to interact with a graph database representing Wikipedia Main topic Classification categories. It has a command Line utility feature that allows us to query the database efficiently and seamlessly.
 Link to Wikipedia classifications: <https://en.wikipedia.org/wiki/Category:Main_topic_classifications>
 
 ## Table of Contents
