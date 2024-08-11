@@ -1,0 +1,7 @@
+Grandparent [1988]: Calendars
+Grandparent [1988]: Chronology
+Grandparent [1988]: Units_of_time
+Grandparent [1988]: Decades
+Grandparent [1988]: 20th_century
+Grandparent [1988]: Contemporary_history
+Goal 6 executed in 0.0049 seconds.

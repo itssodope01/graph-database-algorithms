@@ -1,0 +1,2 @@
+Node with the most children: Albums_by_artist
+Goal 9 executed in 2.9054 seconds.
