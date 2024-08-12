@@ -1,7 +1,7 @@
 # Wikipedia Graph Database Project
 
 [![Python](https://img.shields.io/badge/Python-3.12.x-yellow?style=flat&logo=python&logoColor=blue&logoSize=auto&link=https%3A%2F%2Fwww.python.org%2F)](https://www.python.org/)
-[![Neo4j](https://img.shields.io/badge/Neo4j-5.20.x-black?style=flat&logo=neo4j&logoColor=green&logoSize=auto&link=https%3A%2F%2Fneo4j.com%2F)](https://neo4j.com/)
+[![Neo4j](https://img.shields.io/badge/Neo4j-5.20.x-black?style=flat&logo=neo4j&logoColor=blue&logoSize=auto&labelColor=white&link=https%3A%2F%2Fneo4j.com%2F)](https://neo4j.com/)
 
 
 
