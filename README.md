@@ -1,5 +1,10 @@
 # Wikipedia Graph Database Project
 
+![Static Badge](https://img.shields.io/badge/Python-3.12.x-yellow?style=flat&logo=python&logoColor=blue&logoSize=auto&link=https%3A%2F%2Fwww.python.org%2F)
+![Static Badge](https://img.shields.io/badge/Neo4j-5.20.x-black?style=flat&logo=neo4j&logoColor=green&logoSize=auto&link=https%3A%2F%2Fneo4j.com%2F)
+
+
+
 ## Introduction
 
 This project provides a command-line interface to interact with a graph database representing Wikipedia's Main Topic Classification categories. It allows efficient querying and exploration of the category hierarchy.
