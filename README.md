@@ -112,7 +112,7 @@ pip install neo4j pandas tqdm
 
 3. **Query Functions**:
    - Implemented in `goals.py`
-   - Use Cypher queries for efficient graph traversal
+   - Use Cypher queries along with Asynchronous Processing for efficient graph traversal
    - Yield results for streaming
 
 4. **Command Line Interface**:
@@ -187,7 +187,7 @@ Performance comparison for the query from "Centuries" to "2020s_anime_films":
 
 ![Optimization Comparison](Optimization-Comparison.png)
 
-The optimized version with a default depth of 10 efficiently identifies relevant paths quickly, balancing depth and time efficiency. Custom depth can be set for more extensive searches when time is not a constraint.
+The optimized version with a default depth of 10 along with Asynchronous Processing efficiently identifies relevant paths quickly, balancing depth and time efficiency. Custom depth can be set for more extensive searches when time is not a constraint.
 
 ## Contributing
 
