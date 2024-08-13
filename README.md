@@ -100,7 +100,24 @@ pip install neo4j pandas tqdm
 ## Design and Implementation
 
 1. **Schema Design**:
-   - Node
+   - Nodes: Categories with `name` property
+   - Relationships: `HAS_SUBCATEGORY` between parent-child nodes
+   - Unique constraint on `name` property
+   - Index on `name` property for all nodes
+
+2. **Data Import**:
+   - Batch processing with multi-threading (4 cores)
+   - Error handling and retries
+   - Progress tracking with tqdm
+
+3. **Query Functions**:
+   - Implemented in `goals.py`
+   - Use Cypher queries for efficient graph traversal
+   - Yield results for streaming
+
+4. **Command Line Interface**:
+   - `dbcli.py` provides a user-friendly interface
+   - Executes queries and streams results
 
 ## Manual
 
