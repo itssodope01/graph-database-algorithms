@@ -119,33 +119,6 @@ pip install neo4j pandas tqdm
    - `dbcli.py` provides a user-friendly interface
    - Executes queries and streams results
 
-## Manual
-
-To reproduce the results:
-
-1. Follow the installation and setup instructions.
-2. Use the CLI commands as described in the Usage section.
-3. Compare your output with the examples in the Results folder.s: Categories with `name` property
-
-   - Relationships: `HAS_SUBCATEGORY` between parent-child nodes
-   - Unique constraint on `name` property
-   - Index on `name` property for all nodes
-
-4. **Data Import**:
-
-   - Batch processing with multi-threading (4 cores)
-   - Error handling and retries
-   - Progress tracking with tqdm
-
-5. **Query Functions**:
-
-   - Implemented in `goals.py`
-   - Use Cypher queries for efficient graph traversal
-   - Yield results for streaming
-
-6. **Command Line Interface**:
-   - `dbcli.py` provides a user-friendly interface
-   - Executes queries and streams results
 
 ## Usage
 
